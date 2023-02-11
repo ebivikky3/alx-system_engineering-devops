@@ -1,1 +1,3 @@
-Display the contents list of your current directory.
+Display current directory contents. > README.md
+
+echo Display current directory contents.
