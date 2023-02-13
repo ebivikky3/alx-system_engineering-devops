@@ -1,2 +1,2 @@
 #!/bin/bash
--c -m 'school.mg'
+school.mgc -c -m 'school'
